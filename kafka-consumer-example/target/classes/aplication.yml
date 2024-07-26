@@ -1,0 +1,8 @@
+server:
+  port: 9292
+
+spring:
+  kafka:
+    consumer:
+      bootstrap-server: localhost:9092
+      group-id: jk-group-1
