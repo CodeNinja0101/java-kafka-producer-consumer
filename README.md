@@ -1,2 +1,2 @@
 # java-kafka-producer-consumer
-Example project demonstrating Kafka producers and consumers using Java.
+Project for of demonstrating Kafka producers and consumers using Java.
